@@ -1,0 +1,7 @@
+server:
+  port: 3344
+
+
+
+config:
+  info: "mater branch ,springcloud/config.dev.yml version-1"

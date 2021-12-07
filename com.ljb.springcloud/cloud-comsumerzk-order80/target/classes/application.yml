@@ -1,0 +1,11 @@
+server:
+  port: 80
+
+spring:
+  application:
+    name: cloud-consumer-order
+  cloud:
+    zookeeper:
+      connect-string: 192.168.30.87:2181
+config:
+  info: "mater branch ,springcloud/config.dev.yml version-1"
